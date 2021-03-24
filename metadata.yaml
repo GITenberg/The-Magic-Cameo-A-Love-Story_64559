@@ -1,0 +1,30 @@
+_repo: The-Magic-Cameo-A-Love-Story_64559
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sheldon, Georgie, Mrs.
+    aliases:
+    - Sheldon, Mrs. Georgie
+    - Downs, Sarah Elizabeth Forbush
+    birthdate: 1843
+    deathdate: 1926
+    gutenberg_agent_id: '3912'
+    url: http://www.gutenberg.org/2009/agents/3912
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sarah_Elizabeth_Forbush_Downs
+    - http://www.gutenberg.org/ebooks/author/50374
+description: ''
+gutenberg_issued: '2021-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- GITenberg
+title: 'The Magic Cameo: A Love Story'
+url: http://www.gutenberg.org/ebooks/64559
